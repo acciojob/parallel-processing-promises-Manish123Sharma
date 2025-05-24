@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+#loading {
+        font-weight: bold;
+        color: blue;
+        display: none;
+      }
+      #error {
+        color: red;
+      }
